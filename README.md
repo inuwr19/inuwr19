@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Inu!
 
-<!--
-**inuwr19/inuwr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,laravel,mysql,postgre,nextjs)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on [Project Kamu]
+- 🌱 I’m learning [Tech yang Dipelajari]
+- 🧠 Interested in [Bidang]
+- 💬 Ask me about anything related to [Keahlian Kamu]
+- 📫 How to reach me: [Email atau Link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
