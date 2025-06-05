@@ -11,5 +11,5 @@
 - 📫 How to reach me: [Email atau Link]
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inuwr19&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=inuwr19&show_icons=true&theme=tokyonight)
