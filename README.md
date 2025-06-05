@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Inu!
 
 ## 🔧 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,laravel,mysql,postgre,nextjs)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,laravel,mysql,postgree,nextjs)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Project Kamu]
